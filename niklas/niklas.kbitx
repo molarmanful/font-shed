@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kbits PUBLIC "-//Kreative//DTD BitsNPicasBitmap 1.0//EN" "http://www.kreativekorp.com/dtd/kbitx.dtd">
+<kbits>
+<prop id="emAscent" value="15"/>
+<prop id="emDescent" value="3"/>
+<prop id="lineAscent" value="15"/>
+<prop id="lineDescent" value="3"/>
+<prop id="lineGap" value="0"/>
+<prop id="xHeight" value="7"/>
+<prop id="capHeight" value="12"/>
+<name id="0" value="Copyright (c) 2023, Benjamin Pang (@molarmanful)"/>
+<name id="1" value="niklas"/>
+<name id="2" value="Medium"/>
+<name id="3" value="molarmanful: niklas: 2023"/>
+<name id="4" value="niklas Medium"/>
+<name id="5" value="Version 1.0"/>
+<name id="6" value="niklas"/>
+<name id="8" value="Benjamin Pang"/>
+<g u="32" x="0" y="0" w="6" d="AAA"/>
+<g u="33" x="1" y="12" w="4" d="DAIBUANE"/>
+<g u="34" x="1" y="12" w="7" d="AwVCAUQBQwLC/wA"/>
+<g u="35" x="1" y="9" w="9" d="BwcCQQJBAkIBQgFHAUIBQgFHAUIBQgJBAkEC"/>
+<g u="36" x="1" y="12" w="7" d="DQUCQQRBBEICwv8ARMMA/wBCBEMEQsMA/wBEwgD/AkIEQQRBAg"/>
+<g u="37" x="1" y="9" w="8" d="BwZCA0MCQgNCA0IDQgNCAkMDQg"/>
+<g u="38" x="1" y="12" w="7" d="DQUCQQRBBEICwv8ARMMA/wBCBEMBQgNCwwD/AEIBQgFDA0EEQQI"/>
+<g u="39" x="1" y="12" w="4" d="AwJFAQ"/>
+<g u="40" x="1" y="13" w="6" d="DgQDQQJBAkICQQJCAkICQgJCAkICQgNBA0IDQQRB"/>
+<g u="41" x="1" y="13" w="6" d="DgRBBEEDQgNBA0ICQgJCAkICQgJCAkECQgJBAkED"/>
+<g u="42" x="1" y="9" w="8" d="BwYDQQRCAsL/AELDAP8ARMMA/wBCwgD/AkIEQQM"/>
+<g u="43" x="1" y="9" w="8" d="BwYDQQRCBEICRgJCBEIEQQM"/>
+<g u="44" x="1" y="2" w="4" d="BAJEAUIB"/>
+<g u="45" x="1" y="6" w="7" d="AQVF"/>
+<g u="46" x="1" y="2" w="4" d="AgJE"/>
+<g u="47" x="1" y="13" w="8" d="DgYFQQVBBEIEQgNCBEIDQgRCA0IEQgNCBEIEQQVBBQ"/>
+<g u="48" x="1" y="11" w="7" d="CwUCQgLC/wBEAUQBRAFJAUQBRAFEwgD/AkIC"/>
+<g u="49" x="1" y="11" w="6" d="DAQCQQJCAUMCQgJCAkICQgJCAkMBQgJBAkED"/>
+<g u="50" x="1" y="11" w="7" d="DAUCQgLC/wBEAULDAP8AQgNBA0EDQQNCAUTDAP8AQwJCA0EE"/>
+<g u="51" x="1" y="11" w="7" d="CwUCQgLC/wBEAULDAP8AQgNBAkMEQsMA/wBEAUTCAP8CQgI"/>
+<g u="52" x="1" y="11" w="7" d="CwXCAP8DQgJDAUQBRAFHA0IDQgNCA0IDwv8A"/>
+<g u="53" x="1" y="10" w="7" d="CgVHAUTDAP8AQgRDBELDAP8ARAFEwgD/AkIC"/>
+<g u="54" x="1" y="11" w="7" d="CwUCQgLC/wBEAUTDAP8AQgNEAUIBRAFEAUTCAP8CQgI"/>
+<g u="55" x="1" y="10" w="7" d="CgVHAULDAP8AQgNBA0EDQgNCA0IDQgNBAw"/>
+<g u="56" x="1" y="11" w="7" d="CwUCQgLC/wBEAUQBRMIA/wJDAsL/AEQBRAFEwgD/AkIC"/>
+<g u="57" x="1" y="11" w="7" d="CwUCQgLC/wBEAUQBRAFCAUQDQsMA/wBEAUTCAP8CQgI"/>
+<g u="58" x="1" y="7" w="4" d="BwJEBkQ"/>
+<g u="59" x="1" y="7" w="4" d="CQJEBkQBQgE"/>
+<g u="60" x="1" y="10" w="7" d="CQUEQQNCAkICQgJCBEEFQQVBBUE"/>
+<g u="61" x="1" y="7" w="7" d="AwVFBUU"/>
+<g u="62" x="1" y="10" w="7" d="CQVBBUEFQQVBBEICQgJCAkIDQQQ"/>
+<g u="63" x="1" y="12" w="7" d="DAUCQgLC/wBEAULDAP8AQgNBA0EDQgNCA0EJQgNCAg"/>
+<g u="64" x="1" y="8" w="8" d="CAYCQwJBA0MCRAFFAUIBQgVBA0ECQwE"/>
+<g u="65" x="0" y="12" w="7" d="DwdGA8L/AEICQgFCAUMBQgJCAUICRQJCAUICQgFCAkIBQgJCAUICQgJBAkIDwv8AQgVBBUEG"/>
+<g u="66" x="0" y="12" w="7" d="DwZGAsL/AEIBQgFFAUIBQsIA/wJEAkIBQgFCAUIBQgFCAUIBQgFCwgD/AkMDQgRBBEEF"/>
+<g u="67" x="0" y="12" w="7" d="DwZGAsL/AEIBQsMA/wBDBEIEQgRCBEIEQgRCAUIBQsIA/wJDA0IEQQRBBQ"/>
+<g u="68" x="0" y="12" w="7" d="DwZGAsL/AEIBQgFFAUIBQgFCAUIBQgFCAUIBQgFCAUIBQgFCAUIBQsIA/wJDA0IEQQRBBQ"/>
+<g u="69" x="0" y="12" w="7" d="DwZGAsL/AEIBQsMA/wBDBEIERAJCBEIEQgRCAUIBQsIA/wJDA0IEQQRBBQ"/>
+<g u="70" x="0" y="12" w="7" d="DwZGAsL/AEIBQsMA/wBDBEIERAJCBEIEQgRCBEIEQgRCBEEEQQU"/>
+<g u="71" x="0" y="12" w="7" d="DwdGA8L/AEICQsIA/wJDBUIFQgFDAUIBQgJCAUICQgFCAkIBQgJCwgD/A0MEQgVBBUEG"/>
+<g u="72" x="0" y="12" w="7" d="DwdDAkEDwv8AQgJCAUIBQwFCAkIBQgJFAkIBQgJCAUICQgFCAkIBQgJCAkECQgPC/wBCBUEFQQY"/>
+<g u="73" x="0" y="12" w="4" d="DARDA0ECQgFDAkICQgJCAkICQgJCA0EEQQ"/>
+<g u="74" x="0" y="12" w="7" d="DwYFQQRCBEIEQgRFAUIBQgFCAUIBQgFCAUIBQgFCAULCAP8CQwNCBEEEQQU"/>
+<g u="75" x="0" y="12" w="7" d="DwdDA0ECQQJBAkIBQgFDAUICQsIA/wNEA0IBQgJCAUICQgFCAkIBQgJCAkECQgPC/wBCBUEFQQY"/>
+<g u="76" x="0" y="12" w="6" d="DwZDBUEEQgNDBEIEQgRCBEIEQgRCAUIBQsIA/wJDA0IEQQRBBQ"/>
+<g u="77" x="0" y="12" w="10" d="DwpFAUIEwv8AQgFCAkIBQgFCAUMBQgFCAkIBQgFCAkIBQgFCAkIBQgFCAkIBQgFCAkIBQgFCAkIBQgFCAkICQQJBAkIDQQLC/wBCCEEIQQk"/>
+<g u="78" x="0" y="12" w="7" d="DwdFBML/AEICQgFCAUMBQgJCAUICQgFCAkIBQgJCAUICQgFCAkIBQgJCAkECQgPC/wBCBUEFQQY"/>
+<g u="79" x="0" y="12" w="7" d="DQZFA8L/AEIBQgFFAUIBQgFCAUIBQgFCAUIBQgFCAUIBQgFCAUIBQgFCAsP/AP8EQQI"/>
+<g u="80" x="0" y="12" w="7" d="DwZGAsL/AEIBQgFFAUIBQsIA/wJDA0IEQgRCBEIEQgRCBEIEQQRBBQ"/>
+<g u="81" x="0" y="12" w="7" d="DQdFBML/AEICQgFCAUMBQgJCAUICQgFCAkIBQgJCAUICQ8IA/wJCwgD/A0IBQgPF/wD/AP8DQQM"/>
+<g u="82" x="0" y="12" w="7" d="DwdGA8L/AEICQgFCAUMBQgJCwgD/A0QDQgFCAkIBQgJCAUICQgFCAkICQQJCA8L/AEIFQQVBBg"/>
+<g u="83" x="0" y="12" w="7" d="DwZGAsL/AEIBQgFFwgD/AkIERQRCAsL/AEIBQgFCAUIBQgFCwgD/AkMDQgRBBEEF"/>
+<g u="84" x="0" y="12" w="8" d="DAhIA0IGQgZCBkIGQgZCBkIGQgZCB0EIQQI"/>
+<g u="85" x="0" y="12" w="7" d="DwdDAkEDwv8AQgJCAUIBQwFCAkIBQgJCAUICQgFCAkIBQgJCAUICQgFCAkIBQgJDAsL/AEIFQQVBBg"/>
+<g u="86" x="0" y="12" w="7" d="DwdDA0ECQQJBAkIBQgFDAUICQgFCAkIBQgJCAUICQgFCAkIBQgJCAUICQsIA/wNDBEIFQQVBBg"/>
+<g u="87" x="0" y="12" w="10" d="DwpDA0ECQQJBAkECQQJCAUIBQgFDAUIBQgJCAUIBQgJCAUIBQgJCAUIBQgJCAUIBQgJCAUUCQgFCAUICQsIA/wNBAkMFwv8AQghBCEEJ"/>
+<g u="88" x="0" y="12" w="7" d="DwdDA0ECQQJBAkIBQgFDAUICQgFCAkLCAP8EQwTC/wBCAkIBQgJCAUICQgJBAkIDwv8AQgVBBUEG"/>
+<g u="89" x="0" y="12" w="7" d="DwdDA0ECQQJBAkIBQgFDAUICQgFCAkUFQgPC/wBCAkIBQgJCAUICQsIA/wNDBEIFQQVBBg"/>
+<g u="90" x="0" y="12" w="7" d="DwdHAsL/AEICQgFCAUMBQgVCAkUCQgVCBUIFQgFCAkLCAP8DQwRCBUEFQQY"/>
+<g u="91" x="1" y="13" w="6" d="DgRGAkICQgJCAkICQgJCAkICQgJCAkICQgJE"/>
+<g u="92" x="1" y="13" w="8" d="DgZBBUEFQgRCBUIEQgVCBEIFQgRCBUIEQgVBBUE"/>
+<g u="93" x="1" y="13" w="6" d="DgREAkICQgJCAkICQgJCAkICQgJCAkICQgJG"/>
+<g u="94" x="1" y="12" w="7" d="AwUCQQNDAUICQQ"/>
+<g u="95" x="1" y="1" w="7" d="AQVF"/>
+<g u="96" x="1" y="12" w="5" d="AwNBA0EDQQ"/>
+<g u="97" x="0" y="7" w="6" d="BwYCQwLC/wBCAUIBQgFCAUIBQgFCAUPCAP8CQQNB"/>
+<g u="98" x="0" y="12" w="6" d="DAUCQQNBA0IDQgNCA0QBQgFEAUQBRMMA/wBDA0ED"/>
+<g u="99" x="0" y="7" w="6" d="BwUCQgLC/wBEwwD/AEIDQgNCAsL/AEMB"/>
+<g u="100" x="0" y="12" w="6" d="DAYFQQRBBEIEQgRCA0MCwv8AQgFCAUIBQgFCAUIBQgFDwgD/AkEDQQ"/>
+<g u="101" x="0" y="7" w="6" d="BwUCQgLC/wBEwwD/AEMCQgNCAsL/AEMB"/>
+<g u="102" x="-1" y="12" w="4" d="DwQDQQJBAkICQgJCAkMBQgJCAkICQgJCAkICQgJBAkED"/>
+<g u="103" x="0" y="7" w="6" d="CgUCQ8MA/wBEAUQBRAFHwwD/AEIDQwJBAkIC"/>
+<g u="104" x="0" y="12" w="6" d="DAYCQQRBBEIEQgRCBEICwv8AQgFCAUUBQgFCAUIBQgFCAkECQQNB"/>
+<g u="105" x="0" y="10" w="3" d="CgPDAP8AQgXC/wBCAUIBQgFCAkEDQQ"/>
+<g u="106" x="-1" y="10" w="3" d="DQMCwv8AQgXC/wBCAUIBQgFCAUIBQgFCxAD/AP8C"/>
+<g u="107" x="0" y="12" w="6" d="DAYCQQRBBEIEQgRCBEICwv8AQgFCAUMDQgFCAUIBQgFCAkECQQNB"/>
+<g u="108" x="0" y="11" w="3" d="CwPDAP8AQgFCAUIBQgFCAUIBQgFCAkEDQQ"/>
+<g u="109" x="0" y="7" w="9" d="BwnCAP8CQQLC/wBCAUIBQgFIAUIBQgFCAUIBQgFCAUICQQJBAkEDQQJB"/>
+<g u="110" x="0" y="7" w="6" d="BwbCAP8Cwv8AQgFCAUUBQgFCAUIBQgFCAkECQQNB"/>
+<g u="111" x="0" y="7" w="6" d="BwUCQgLC/wBEAUQBRAFCxAD/AP8DQQI"/>
+<g u="112" x="0" y="7" w="6" d="CgUCQgLC/wBEAUQBRMMA/wBDAkIDQgNCA0EE"/>
+<g u="113" x="0" y="7" w="6" d="CgUCQ8MA/wBEAUQBRAFHwwD/AEIDQgNCA8L/AA"/>
+<g u="114" x="0" y="7" w="5" d="BwUCQgLC/wBEwwD/AEIDQgNCBEED"/>
+<g u="115" x="0" y="7" w="5" d="BwQBRQFDAkQCQgJCAUIB"/>
+<g u="116" x="0" y="11" w="4" d="CwQCQQJCAkICQgFEAUICQgJCAkIDQQRB"/>
+<g u="117" x="0" y="7" w="6" d="BwbCAP8Cwv8AQgFCAUIBQgFCAUIBQgFCAUPCAP8CQQNB"/>
+<g u="118" x="0" y="7" w="6" d="BwXCAP8CQwFEAUQBRMMA/wBDA0ED"/>
+<g u="119" x="0" y="7" w="9" d="BwjCAP8CQQJDAUIBRAFCAUQBQgFEAUIBQsMA/wBCwgD/A0ECQQI"/>
+<g u="120" x="0" y="7" w="6" d="BwXCAP8CQwFEAUIBQwFCAUQBQsIA/wJB"/>
+<g u="121" x="0" y="7" w="6" d="CgXCAP8CQwFEAUQBRAFHwwD/AEIDQwJBAkIC"/>
+<g u="122" x="0" y="7" w="6" d="BwUCQgLC/wBCA0ECQgJCA0ICwv8AQwE"/>
+<g u="123" x="1" y="13" w="6" d="DgQCQgFCAkICQgJCAkIBQgNCAkICQgJCAkICQgNC"/>
+<g u="124" x="1" y="13" w="4" d="DgIBWgE"/>
+<g u="125" x="1" y="13" w="6" d="DgRCA0ICQgJCAkICQgNCAUICQgJCAkICQgJCAUIC"/>
+<g u="126" x="1" y="7" w="7" d="AwVCA8X/AP8A/wNC"/>
+</kbits>
